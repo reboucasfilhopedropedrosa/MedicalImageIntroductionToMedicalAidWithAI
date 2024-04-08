@@ -25,7 +25,7 @@
 - Aplicações práticas de segmentação em imagens médicas.
 - Exercícios práticos de segmentação.
 - [Video - Aula 3](https://youtu.be/UBzjySk7CFo)
-- [PDF - Aula 3] (https://github.com/reboucasfilhopedropedrosa/MedicalImageIntroductionToMedicalAidWithAI/blob/046d2d7d7f89e8aa7503846a8002416b979ba350/Aula%203%20-%20Introduc%CC%A7a%CC%83o%20a%CC%80%20Segmentac%CC%A7a%CC%83o%20em%20Imagens%20Me%CC%81dicas.pdf)
+- [PDF - Aula 3](https://github.com/reboucasfilhopedropedrosa/MedicalImageIntroductionToMedicalAidWithAI/blob/046d2d7d7f89e8aa7503846a8002416b979ba350/Aula%203%20-%20Introduc%CC%A7a%CC%83o%20a%CC%80%20Segmentac%CC%A7a%CC%83o%20em%20Imagens%20Me%CC%81dicas.pdf)
 
 ## Aula 4: Filtros em Processamento de Imagens Médicas (Prof.: Hércules)
 - Conceito de filtros e sua aplicação em PDI.
