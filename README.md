@@ -7,7 +7,7 @@
 - Variações nas unidades Hounsfield em diferentes tecidos e estruturas do corpo.
 - Estudos de casos com imagens de TC e interpretação das unidades Hounsfield.
 - [Video - Aula 1](https://pages.github.com/)
-- [PDF - Aula 1]([https://pages.github.com/](https://github.com/reboucasfilhopedropedrosa/MedicalImageIntroductionToMedicalAidWithAI/blob/046d2d7d7f89e8aa7503846a8002416b979ba350/Aula%201%20Unidades%20Hounsfield%20e%20Tipos%20de%20Exames%20em%20TC.pdf))
+- [PDF - Aula 1]((https://github.com/reboucasfilhopedropedrosa/MedicalImageIntroductionToMedicalAidWithAI/blob/046d2d7d7f89e8aa7503846a8002416b979ba350/Aula%201%20Unidades%20Hounsfield%20e%20Tipos%20de%20Exames%20em%20TC.pdf))
 
 ## Aula 2: Formatos de Imagens Médicas: DCM, TIFF, RAW, NII e Outros (Prof.: Douglas)
 - Visão geral dos formatos de imagem médica, incluindo DCM (DICOM), TIFF, RAW e NII.
